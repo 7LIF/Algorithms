@@ -1,5 +1,5 @@
 /*
-Exercício 2: Implemente um algoritmo que leia quantos minutos por dia um aluno pode estudar. Calcule e escreva
+ExercÃ­cio 2: Implemente um algoritmo que leia quantos minutos por dia um aluno pode estudar. Calcule e escreva
 ao final de 90 dias quanto tempo em horas ele estudou.
 */
 
