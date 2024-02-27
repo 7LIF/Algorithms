@@ -1,5 +1,5 @@
 /*
-Exercício 4: Desenvolva um programa que receba o ano de nascimento de uma pessoa e o ano atual. Calcule e mostre:
+ExercÃ­cio 4: Desenvolva um programa que receba o ano de nascimento de uma pessoa e o ano atual. Calcule e mostre:
 a) A idade dessa pessoa em anos;
 b) A idade dessa pessoa em meses;
 c) A idade dessa pessoa em dias;
