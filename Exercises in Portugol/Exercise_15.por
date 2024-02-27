@@ -1,9 +1,9 @@
 /*
-Exercício 1: Sabendo que o IMC (Índice de massa corporal) é obtido em função da altura e do peso 
+ExercÃ­cio 15: Sabendo que o IMC (Ãndice de massa corporal) Ã© obtido em funÃ§Ã£o da altura e do peso 
 (imc=peso/ (altura*altura)). Crie um algoritmo que leia os valores do peso e da altura, apresente 
-o valor do imc e a respetiva situação sabendo que:
+o valor do imc e a respetiva situaÃ§Ã£o sabendo que:
 
-      |  IMC                 |   SITUAÇÃO              |
+      |  IMC                 |   SITUAÃ‡ÃƒO              |
       |______________________|_________________________|
       | Abaixo de 20         |  Abaixo do peso         |
       | >=20 e <25           |  Peso Normal            |
