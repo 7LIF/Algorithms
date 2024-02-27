@@ -1,7 +1,7 @@
 /*
-ExercÌcio 6: Uma instituiÁ„o de ensino realizou uma pesquisa sobre os eleitores de um municÌpio que participaram
-numa dada eleiÁ„o. Crie um programa que leia o total de votos brancos, nulos e v·lidos. Calcule e
-escreva a percentagem que cada um representa em relaÁ„o ao total de eleitores.
+Exerc√≠cio 6: Uma institui√ß√£o de ensino realizou uma pesquisa sobre os eleitores de um munic√≠pio que participaram
+numa dada elei√ß√£o. Crie um programa que leia o total de votos brancos, nulos e v√°lidos. Calcule e
+escreva a percentagem que cada um representa em rela√ß√£o ao total de eleitores.
 */
 
 programa {
@@ -14,7 +14,7 @@ programa {
       leia(votos_brancos)
       escreva ("Introduza a quantidade de votos nulos: ")
       leia(votos_nulos)
-      escreva ("Introduza a quantidade de votos v·lidos: ")
+      escreva ("Introduza a quantidade de votos v√°lidos: ")
       leia(votos_validos)
 
       total_votos=votos_brancos+votos_nulos+votos_validos
@@ -25,7 +25,7 @@ programa {
       escreva("Total de eleitores: ", total_votos, 
               "\nVotos em branco: ", percent_brancos, 
               "% \nVotos nulos: ", percent_nulos, 
-              "% \nVotos v·lidos: ", percent_validos, "%")
+              "% \nVotos v√°lidos: ", percent_validos, "%")
 
   }
 }
