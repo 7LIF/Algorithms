@@ -1,8 +1,8 @@
 /*
-Exercício 2: Pretende-se calcular a idade em anos em função do dia, mês e ano de nascimento e dia, mês e 
-ano atual. Considere o seguinte: Em condições normais a idade é a diferença entre o ano atual e ano de 
-nascimento. No entanto se o mês atual for inferior ao mês de nascimento ou o mês atual igual ao mês de 
-nascimento e o dia atual inferior ao dia de nascimento a idade é o ano atual menos o ano de nascimento 
+ExercÃ­cio 16: Pretende-se calcular a idade em anos em funÃ§Ã£o do dia, mÃªs e ano de nascimento e dia, mÃªs e 
+ano atual. Considere o seguinte: Em condiÃ§Ãµes normais a idade Ã© a diferenÃ§a entre o ano atual e ano de 
+nascimento. No entanto se o mÃªs atual for inferior ao mÃªs de nascimento ou o mÃªs atual igual ao mÃªs de 
+nascimento e o dia atual inferior ao dia de nascimento a idade Ã© o ano atual menos o ano de nascimento 
 menos um.
 */
 
@@ -17,13 +17,13 @@ programa {
 
     escreva("Qual o dia de nascimento: ")
     leia(nascimentoDia)
-    escreva("Qual o mês de nascimento: ")
+    escreva("Qual o mÃªs de nascimento: ")
     leia(nascimentoMes)
     escreva("Qual o ano de nascimento: ")
     leia(nascimentoAno)
     escreva("Qual o dia atual: ")
     leia(atualDia)
-    escreva("Qual o mês atual: ")
+    escreva("Qual o mÃªs atual: ")
     leia(atualMes)
     escreva("Qual o ano atual: ")
     leia(atualAno)
